@@ -28,8 +28,8 @@ const DownArrow = props => {
 
     return (
     <StyledDownArrow>
-         <img 
-            src="https://vectr.com/alexjwilliams/abbcJZg9f.svg?width=250&height=200&select=abbcJZg9fpage0" width="50" alt="logo"/>
+         <img // animated down arrow image
+            src="https://vectr.com/alexjwilliams/abbcJZg9f.svg?width=250&height=200&select=abbcJZg9fpage0" width="50" alt="logo"/> 
     </StyledDownArrow>
     
     )

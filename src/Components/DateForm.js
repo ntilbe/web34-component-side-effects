@@ -9,8 +9,12 @@ const StyleDetails = styled.div`
   margin: 3% auto;
   width: 250px;
   `
-
-
+// const dateChange = () => {
+//   // submit button needs to change the photo
+//   setDate =  
+// }
+// onSubmit = {dateChange}
+// line 22 value  
 const DateForm = () => (
   <StyleDetails>
   <Form>
@@ -18,8 +22,8 @@ const DateForm = () => (
     <Label className="date-label" pointing='below'>Enter a date</Label>
       <input type='date' placeholder='First name' />
       
-    </Form.Field>
-    <Button type='submit'>Submit</Button>
+    </Form.Field> 
+    <Button type='submit' >Submit</Button> 
     <Divider />
   </Form>
   </StyleDetails>
